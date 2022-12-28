@@ -1,0 +1,14 @@
+/Users/shukufa/Projects/27 dec new lesson practice/27 dec new lesson practice/bin/Debug/netcoreapp3.1/27 dec new lesson practice
+/Users/shukufa/Projects/27 dec new lesson practice/27 dec new lesson practice/bin/Debug/netcoreapp3.1/27 dec new lesson practice.deps.json
+/Users/shukufa/Projects/27 dec new lesson practice/27 dec new lesson practice/bin/Debug/netcoreapp3.1/27 dec new lesson practice.runtimeconfig.json
+/Users/shukufa/Projects/27 dec new lesson practice/27 dec new lesson practice/bin/Debug/netcoreapp3.1/27 dec new lesson practice.runtimeconfig.dev.json
+/Users/shukufa/Projects/27 dec new lesson practice/27 dec new lesson practice/bin/Debug/netcoreapp3.1/27 dec new lesson practice.dll
+/Users/shukufa/Projects/27 dec new lesson practice/27 dec new lesson practice/bin/Debug/netcoreapp3.1/27 dec new lesson practice.pdb
+/Users/shukufa/Projects/27 dec new lesson practice/27 dec new lesson practice/obj/Debug/netcoreapp3.1/27 dec new lesson practice.csproj.AssemblyReference.cache
+/Users/shukufa/Projects/27 dec new lesson practice/27 dec new lesson practice/obj/Debug/netcoreapp3.1/27 dec new lesson practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shukufa/Projects/27 dec new lesson practice/27 dec new lesson practice/obj/Debug/netcoreapp3.1/27 dec new lesson practice.AssemblyInfoInputs.cache
+/Users/shukufa/Projects/27 dec new lesson practice/27 dec new lesson practice/obj/Debug/netcoreapp3.1/27 dec new lesson practice.AssemblyInfo.cs
+/Users/shukufa/Projects/27 dec new lesson practice/27 dec new lesson practice/obj/Debug/netcoreapp3.1/27 dec new lesson practice.csproj.CoreCompileInputs.cache
+/Users/shukufa/Projects/27 dec new lesson practice/27 dec new lesson practice/obj/Debug/netcoreapp3.1/27 dec new lesson practice.dll
+/Users/shukufa/Projects/27 dec new lesson practice/27 dec new lesson practice/obj/Debug/netcoreapp3.1/27 dec new lesson practice.pdb
+/Users/shukufa/Projects/27 dec new lesson practice/27 dec new lesson practice/obj/Debug/netcoreapp3.1/27 dec new lesson practice.genruntimeconfig.cache

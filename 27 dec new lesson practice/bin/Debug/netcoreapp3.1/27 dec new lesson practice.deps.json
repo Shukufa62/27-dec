@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "27 dec new lesson practice/1.0.0": {
+        "runtime": {
+          "27 dec new lesson practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "27 dec new lesson practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
