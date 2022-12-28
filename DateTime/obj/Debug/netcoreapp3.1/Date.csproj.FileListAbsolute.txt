@@ -1,0 +1,14 @@
+/Users/shukufa/Projects/27 dec new lesson practice/DateTime/bin/Debug/netcoreapp3.1/Date
+/Users/shukufa/Projects/27 dec new lesson practice/DateTime/bin/Debug/netcoreapp3.1/Date.deps.json
+/Users/shukufa/Projects/27 dec new lesson practice/DateTime/bin/Debug/netcoreapp3.1/Date.runtimeconfig.json
+/Users/shukufa/Projects/27 dec new lesson practice/DateTime/bin/Debug/netcoreapp3.1/Date.runtimeconfig.dev.json
+/Users/shukufa/Projects/27 dec new lesson practice/DateTime/bin/Debug/netcoreapp3.1/Date.dll
+/Users/shukufa/Projects/27 dec new lesson practice/DateTime/bin/Debug/netcoreapp3.1/Date.pdb
+/Users/shukufa/Projects/27 dec new lesson practice/DateTime/obj/Debug/netcoreapp3.1/Date.csproj.AssemblyReference.cache
+/Users/shukufa/Projects/27 dec new lesson practice/DateTime/obj/Debug/netcoreapp3.1/Date.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shukufa/Projects/27 dec new lesson practice/DateTime/obj/Debug/netcoreapp3.1/Date.AssemblyInfoInputs.cache
+/Users/shukufa/Projects/27 dec new lesson practice/DateTime/obj/Debug/netcoreapp3.1/Date.AssemblyInfo.cs
+/Users/shukufa/Projects/27 dec new lesson practice/DateTime/obj/Debug/netcoreapp3.1/Date.csproj.CoreCompileInputs.cache
+/Users/shukufa/Projects/27 dec new lesson practice/DateTime/obj/Debug/netcoreapp3.1/Date.dll
+/Users/shukufa/Projects/27 dec new lesson practice/DateTime/obj/Debug/netcoreapp3.1/Date.pdb
+/Users/shukufa/Projects/27 dec new lesson practice/DateTime/obj/Debug/netcoreapp3.1/Date.genruntimeconfig.cache
